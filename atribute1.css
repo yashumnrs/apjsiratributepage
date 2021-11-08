@@ -1,0 +1,51 @@
+
+
+#pic1{
+    float: left;
+    align-content: center;
+    background-image: -moz-element(loveusir.jpg);
+}
+
+h1{
+    text-decoration:wavy;
+    font-size: 50px;
+    text-decoration-line:none;
+    letter-spacing: 3px;
+}
+
+p{
+    text-align: center;
+    text-decoration: black;
+    letter-spacing: normal;
+    text-transform: capitalize;
+}
+
+a:link{
+text-decoration-line: none;
+color: blue;
+
+}
+a:visited{
+    color: blueviolet;
+
+}
+a:active{
+    background-color: brown;
+}
+
+a:hover{
+    color: crimson;
+}
+
+.opi{
+    align-content: center;
+}
+
+
+
+body{
+    margin-top: 100px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
